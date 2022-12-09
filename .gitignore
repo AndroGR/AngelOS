@@ -6,3 +6,9 @@ build/
 *.so
 *.o
 *.bin
+*.iso
+
+# Where I build my own ISOs with GRUB. Because I'd have to ship
+# the source code of GRUB everywhere otherwise, I can't distribute
+# this folder.
+isogen/
