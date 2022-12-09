@@ -1,0 +1,8 @@
+# Stuff that gets built is placed there,
+# apart from object files.
+build/
+
+# Object files, libraries, blah blah blah.
+*.so
+*.o
+*.bin
